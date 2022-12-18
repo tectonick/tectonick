@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nick Kiselev</h1>
 <h3 align="center">Fullstack Software Developer, Web Designer</h3>
 
-- 👨‍💻 All of my projects are available at [nickkiselev.me](nickkiselev.me)
+- 👨‍💻 All of my projects are available at [nickkiselev.me](https://nickkiselev.me)
 
 - 👀 I’m interested in both backend and frontend development.
 
 - 📫 How to reach me **korn9509@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/nick-kiselev](linkedin.com/in/nick-kiselev)
+- 📄 Know about my experiences [linkedin.com/in/nick-kiselev](https://linkedin.com/in/nick-kiselev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
